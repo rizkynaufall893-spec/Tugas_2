@@ -15,5 +15,6 @@ int main() {int Nilai;
     }
     else{cout<<"Nilai D";
         }
+         system("pause");
     return 0;
 }
