@@ -5,16 +5,15 @@ int main() {int Nilai;
         cout<<"Masukkan Nilai";
         cin>>Nilai;
     if (Nilai>90){
-        cout<<"Nilai A";
+        cout<<"Nilai anda A";
     }
     else if(Nilai>80){
-        cout<<"Nilai B";
+        cout<<"Nilai anda B";
     }
     else if(Nilai>70){
-        cout<<"Nilai C";
+        cout<<"Nilai anda C";
     }
-    else{cout<<"Nilai D";
+    else{cout<<"Nilai anda D";
         }
-         system("pause");
     return 0;
 }
